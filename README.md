@@ -10,4 +10,3 @@ Created for the [Coderise](http://coderise.org) final projects
  * [StackMob](http://stackmob.com) JS 0.6.0
  * All [Bootswatch](http://bootswatch.com) themes
  
-![image](http://citri.co/coderise/logo.png)
